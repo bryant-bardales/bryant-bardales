@@ -2,11 +2,11 @@
 
 I am future software engineer and lifelong technology enthusiast.
 
-Recently graduated LaGuardia Community College with an AS in Computer Science and am a current junior at Brooklyn College in pursuit of a Bachelor's degree in Computer Science.
+Current junior at Brooklyn College in pursuit of a Bachelor's degree in Computer Science and recent graduate of LaGuardia Community College with an Associate's of Science in Computer Science.
 
 I am interested in software engineering and am seeking exciting opportunities related to the same.
 
-I have participated and created projects in Java, Python, and C++ for programs including Google's CSSI: Online Program and LaGuardia's Tech Scholar Program.
+I have participated and created projects in C++, Java, Python, Javascript, HTML, CSS, and React for programs including Google's CSSI: Online Program, LaGuardia's Tech Scholar Program, and Brooklyn College's Tech Talent Pipline Program. 
 
 I created and currently facilitate a program in collaboration with my old high school called "College Talk" where I connect with 11th and 12th grade students and speak to them regarding the importance of a college education. 
 
