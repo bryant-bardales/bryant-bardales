@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bryant-bardales
 
-I am future software engineer and lifelong technology enthusiast.
+I am full stack developer and lifelong technology enthusiast.
 
 Current junior at Brooklyn College in pursuit of a Bachelor's degree in Computer Science and recent graduate of LaGuardia Community College with an Associate's of Science in Computer Science.
 
