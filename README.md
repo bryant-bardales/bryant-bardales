@@ -1,14 +1,10 @@
 - 👋 Hi, I’m @bryant-bardales
 
-I am full stack developer and lifelong technology enthusiast.
+Full-stack developer and lifelong technology enthusiast, I am a current junior and Tech Talent Pipeline resident at Brooklyn College pursuing a Bachelor's degree in Computer Science. I recently graduated from LaGuardia Community College with an Associate of Science in Computer Science. I am highly motivated to continue learning and participate in any development projects. 
 
-Current junior at Brooklyn College in pursuit of a Bachelor's degree in Computer Science and recent graduate of LaGuardia Community College with an Associate's of Science in Computer Science.
+I was selected to become a resident in Brooklyn College's Tech Talent Pipeline Program through my hard work. In this residency, I received the opportunity to train in Javascript, HTML5, CSS, React.js, Express.js, Node.js, Sequelize, PostgreSQL, Git, and GitHub through various group projects. 
 
-I am interested in software engineering and am seeking exciting opportunities related to the same.
-
-I have participated and created projects in C++, Java, Python, Javascript, HTML, CSS, and React for programs including Google's CSSI: Online Program, LaGuardia's Tech Scholar Program, and Brooklyn College's Tech Talent Pipline Program. 
-
-I created and currently facilitate a program in collaboration with my old high school called "College Talk" where I connect with 11th and 12th grade students and speak to them regarding the importance of a college education. 
+I have also participated in Java, Python, and C++ projects for programs, including Google's CSSI: Online Program and LaGuardia's Tech Scholar Program.
 
 Personal Website: www.bryantbardales.com
 
