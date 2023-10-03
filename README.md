@@ -6,7 +6,7 @@ I was selected to become a resident in Brooklyn College's Tech Talent Pipeline P
 
 I have also participated in Java, Python, and C++ projects for programs, including Google's CSSI: Online Program and LaGuardia's Tech Scholar Program.
 
-Personal Website: www.bryantbardales.com
+Personal Website: whoisbryant.com
 
 I can be reached via: 
 
